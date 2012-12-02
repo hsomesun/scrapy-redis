@@ -9,7 +9,7 @@ Features:
 * Distributed post-processing
 
 Requirements:
-* Scrapy >= 0.13 (development version)
+* Scrapy == 0.16.2 (development version)
 * redis-py (tested on 2.4.9)
 * redis server (tested on 2.2-2.4)
 
